@@ -1,0 +1,212 @@
+{
+  "heading": "Conjunctions",
+  "topics": [
+    {
+      "heading": "Conjunctions",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "I want to play outside, _____ it is raining.",
+          "options": [
+            { "text": "but" },
+            { "text": "or" },
+            { "text": "therefore" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 2,
+          "question": "We can go to the park, _____ we can stay at home.",
+          "options": [
+            { "text": "but" },
+            { "text": "so" },
+            { "text": "or" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "I was tired, _____ I took a nap.",
+          "options": [
+            { "text": "since" },
+            { "text": "so" },
+            { "text": "but" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 4,
+          "question": "I forgot my homework, _____ I had to go back home.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "because" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 5,
+          "question": "I wanted to play outside, _____ I forgot my ball.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "and" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 6,
+          "question": "You can have a cookie _____ a piece of cake.",
+          "options": [
+            { "text": "since" },
+            { "text": "but" },
+            { "text": "or" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 7,
+          "question": "He was hungry, _____ he ate an apple.",
+          "options": [
+            { "text": "so" },
+            { "text": "since" },
+            { "text": "but" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 8,
+          "question": "I like playing soccer, _____ my brother likes basketball.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "therefore" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "We can go to the park, _____ we can stay at home and read.",
+          "options": [
+            { "text": "but" },
+            { "text": "or" },
+            { "text": "since" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 10,
+          "question": "He felt sick, _____ he stayed in bed all day.",
+          "options": [
+            { "text": "so" },
+            { "text": "but" },
+            { "text": "since" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 11,
+          "question": "We didn't go to the park _____ it was raining.",
+          "options": [
+            { "text": "but" },
+            { "text": "or" },
+            { "text": "because" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "I like reading books _____ listening music.",
+          "options": [
+            { "text": "and" },
+            { "text": "since" },
+            { "text": "but" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 13,
+          "question": "I want to buy a toy, _____ I don’t have enough money.",
+          "options": [
+            { "text": "but" },
+            { "text": "since" },
+            { "text": "therefore" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "I want to go to the beach, _____ my friends want to go to the zoo.",
+          "options": [
+            { "text": "because" },
+            { "text": "but" },
+            { "text": "or" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 15,
+          "question": "The teacher explained the lesson, _____ everyone understood it.",
+          "options": [
+            { "text": "but" },
+            { "text": "since" },
+            { "text": "therefore" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 16,
+          "question": "Look at the picture and choose the correct word.<br><img width='60%' src='./assests/1.png'>",
+          "options": [
+            { "text": "Flour" },
+            { "text": "Flower" },
+            { "text": "Floor" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following conjunctions is used to show a result?",
+          "options": [
+            { "text": "and" },
+            { "text": "because" },
+            { "text": "therefore" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 18,
+          "question": "Which of the following conjunctions is used to give a choice?",
+          "options": [
+            { "text": "since" },
+            { "text": "or" },
+            { "text": "because" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 19,
+          "question": "Look at the picture and choose the correct vehicle.<br><img width='60%' src='./assests/2.png'>",
+          "options": [
+            { "text": "Car" },
+            { "text": "Crane" },
+            { "text": "Truck" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct pair.",
+          "options": [
+            { "text": "Play - Conjunction" },
+            { "text": "Swim - Verb" },
+            { "text": "Beautiful - Noun" }
+          ],
+          "answer": 1
+        }
+      ]
+      
+      
+    }
+  ]
+}
